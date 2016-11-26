@@ -2,3 +2,4 @@ bptf/*
 data/*
 scratch/*
 *.pyc
+.DS_Store
