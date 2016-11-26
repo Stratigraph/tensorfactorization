@@ -2,4 +2,5 @@ bptf/*
 data/*
 scratch/*
 *.pyc
+*.sw*
 .DS_Store
