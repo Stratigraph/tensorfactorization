@@ -4,3 +4,5 @@ scratch/*
 *.pyc
 *.sw*
 .DS_Store
+NTFLib
+bptf_schein
